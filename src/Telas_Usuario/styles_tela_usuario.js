@@ -12,7 +12,7 @@ import styled, {css }  from 'styled-components'
 
 export const divTopo = styled.div`
 height: 50px;
-background-image: linear-gradient(to right, rgba(70, 169, 169), rgba(70, 146, 169));
+background-image: linear-gradient(to right, rgba(70, 169, 2000), rgba(70, 146, 169));
 `;
 
 export const div = styled.div`
