@@ -13,6 +13,12 @@ https://www.npmjs.com/package/react-switch
 Instação
 npm install react-switch
 
+# Para visualização do projeto, basta clicar no link, abaixo
+Comando
+npm run build
+Depois a pasta build, é arrastada para dentro do netlify, 
+gerando um uma url, para visualização da tela.
 
-# Tela-Cpf-React-js
+https://tela-cpf-react-js.netlify.app/
+
 
