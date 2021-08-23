@@ -15,7 +15,4 @@ npm install react-switch
 
 
 # Tela-Cpf-React-js
-# Tela-Cpf-React-js
-# Tela_Cpf_React_Js
-# Tela_Cpf_React_Js
-# Tela_Cpf_React_Js
+
